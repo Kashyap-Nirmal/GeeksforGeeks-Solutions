@@ -13,22 +13,22 @@
 <h2 align="center">👉 A Collection of Solutions to GeeksforGeeks Problems 👈</h2>
 </p>
 
-<br>- My ***C++*** solutions.
-<br>- I will be adding the solutions eventually as I go on.
-<br>- My solutions may **not always be optimal**.
+- My ***C++*** solutions.
+- I will be adding the solutions eventually as I go on.
+- My solutions may **not always be optimal**.
 
 ## `📋 Table of Contents 📋`
 
-| Title |
-|---|
-| [Must Do Coding Questions for Product Based Companies](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/)|
-| [How to Pick a Category ?](https://practice.geeksforgeeks.org/pickACategory.php)|
-| Other problems |
+| Title |Solution|
+|---| ------------|
+| [Must Do Coding Questions for Product Based Companies](https://www.geeksforgeeks.org/must-do-coding-questions-for-product-based-companies/)| [C++](./Must%20Do%20New)|
+| [How to Pick a Category ?](https://practice.geeksforgeeks.org/pickACategory.php)| [C++](./Practice%20How%20to%20Pick%20a%20category)|
+| Other problems | [C++](https://github.com/Kashyap-Nirmal/GeeksforGeeks-Solutions)|
 
 <br>Creator [`Kashyap Nirmal`](https://github.com/Kashyap-Nirmal/)
 
 ## Note
-<br>- Some things added in the README.md file may be borrowed from some other repositories. 
-<br>- `Credit to the rightful owner.`
-<br>- The ***CPP code files*** are ***purely my submissions***. Until unless I needed to look for a ***solution from Internet source*** or ask for ***help from few of my friends***.
-<br>- Some ***problems may be repeating***. But in most of cases they ***may have different approach to the problem***.
+- Some things added in the README.md file may be borrowed from some other repositories. 
+- `Credit to the rightful owner.`
+- The ***CPP code files*** are ***purely my submissions***. Until unless I needed to look for a ***solution from Internet source*** or ask for ***help from few of my friends***.
+- Some ***problems may be repeating***. But in most of cases they ***may have different approach to the problem***.
